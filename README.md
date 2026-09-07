@@ -10,9 +10,9 @@
 </div>
 
 ### How am I?
-I'm Cauber Streck (he, his), a 16 year old student, mern-stack developer, currently from Brazil.
+I'm Cauber Streck (he, his), a 18 years old student, backend developer, currently from Brazil.
 
-I not only study web development, but I have knowledge about hardware, game development, and programming as a whole.
+I don't just study web development, but I also have knowledge of hardware, game development, and programming as a whole.
 
 ![programmer cat](img/programmer%20cat.gif)
 
@@ -34,8 +34,10 @@ I not only study web development, but I have knowledge about hardware, game deve
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
 </div><br>
 
 **Test**
@@ -57,10 +59,10 @@ I not only study web development, but I have knowledge about hardware, game deve
 </div>
 <br><br>
 
-### Courses (*in progress*)
+### Academic Training (*in progress*)
 - Computer Technician - SEG
 
-- Full Stack Open - Open course provided by the University of Helsinki
+- Software Engineering - Unopar
 
 <br>
 <hr>
